@@ -1,0 +1,12 @@
+{
+  "validCustomer": {
+    "firstName": "TestFirst",
+    "lastName": "TestLast",
+    "postCode": "AB1 2CD"
+  },
+  "duplicateCustomer": {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "postCode": "ZZ9 9ZZ"
+  }
+}
